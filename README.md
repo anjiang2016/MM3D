@@ -38,6 +38,8 @@
     - 当前还没有把坐标轴绘制出来，后续会把坐标轴绘制出来。
 
 
-
+第一版的显示软件：
 ![image](http://152.136.201.129:8090/fileop/media/img/image_8ZGdwHW.png)
 
+p.png
+![image](https://github.com/anjiang2016/MM3D/blob/main/p.png)
